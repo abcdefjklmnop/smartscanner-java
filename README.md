@@ -39,10 +39,6 @@ Det finnes ingen automatiserte tester. Katalogen er hardkodet i kildekoden.
 
 Skole- og øvingseksempel. Ingen kamera, strekkodeskanning, database eller ekstern integrasjon – oppslagene går mot en katalog som ligger i kildekoden. Ingen persistens mellom kjøringer.
 
-## Bakgrunn
-
-Prosjektet inngår i Karos Mokrians portefølje og er utviklet med KI-assistanse. Beskrivelsene over gjelder det koden faktisk demonstrerer.
-
 ## Lisens
 
 MIT – se [LICENSE](LICENSE).
