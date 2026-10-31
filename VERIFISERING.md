@@ -2,4 +2,4 @@
 
 javac kompilering bestått. Interaktiv røykprøve med produkt 1001, historikk og avslutning bestått.
 
-Kontrollene gjelder denne porteføljekopien. Ingen publisering er utført.
+Kontrollene gjelder koden i denne mappen. Den er ikke deployet eller satt i produksjonsdrift.
